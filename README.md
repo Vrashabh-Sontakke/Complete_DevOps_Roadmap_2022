@@ -1,2 +1,3 @@
 # Complete_DevOps_Roadmap_2022
-![My_DevOps_Roadmap_2022](https://user-images.githubusercontent.com/86019029/180482383-1017f3d8-db71-4e25-bcef-793e5fc5bf0f.png)
+
+![Complete_DevOps_Roadmap_2022](https://user-images.githubusercontent.com/86019029/180638664-e8cf514b-5d98-4033-bd6d-e26b31d03501.png)
